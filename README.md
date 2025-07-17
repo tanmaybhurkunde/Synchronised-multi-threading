@@ -1,5 +1,3 @@
-Here is a concise `README.md` file for your synchronized example using `Adder` and `Subtractor` on a shared variable:
-
 🧵 Java Multithreading with `synchronized` — Adder and Subtractor Example
 
 This project demonstrates the use of 
